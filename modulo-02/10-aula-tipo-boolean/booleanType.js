@@ -15,8 +15,8 @@ console.log(tarefaPendente);
 // ==> Exemplo 02
 let concluido = false;
 if (!concluido) {
-    console.log('Tarefa foi concluída com sucesso!');
+    console.log('Tarea concluida');
 }
 else {
-    console.log('Tarefa Pendente!');
+    console.log('Tarefa Pendente');
 }

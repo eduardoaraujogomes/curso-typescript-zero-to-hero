@@ -15,12 +15,17 @@ let tarefaPendente: boolean = false;
 console.log(tarefaConcluida);
 console.log(tarefaPendente);
 
+
+
 // ==> Exemplo 02
 
 let concluido: boolean = false;
 
 if (!concluido) {
-    console.log('Tarefa foi concluída com sucesso!')
+  console.log('Tarea concluida');
 } else {
-    console.log('Tarefa Pendente!');
+  console.log('Tarefa Pendente');
 }
+
+
+
