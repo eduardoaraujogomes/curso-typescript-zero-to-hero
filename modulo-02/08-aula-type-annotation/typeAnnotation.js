@@ -22,4 +22,4 @@ console.log(carro);
 function multiplicarNumero(num1, num2) {
     return num1 * num2;
 }
-console.log(multiplicarNumero(10, 20));
+console.log(multiplicarNumero(10, 50));
