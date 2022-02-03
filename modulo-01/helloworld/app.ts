@@ -1,2 +1,2 @@
-let mensagem: string = 'Hello World, Eduardo de Araújo';
+let mensagem: string = 'Hello World, Eduardo de Araújo Gomes';
 console.log(mensagem);
