@@ -226,4 +226,4 @@ Nesse ponto, pedirei paciência a todas as pessoas. Mas, estarei divulgando novo
 
 Caso tenham dúvidas aos códigos desenvolvidos durante a série de vídeos, sintam-se à vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/curso-typescript-zero-to-hero/issues)**. Assim que possível, estaremos respondendo a todas as dúvidas que tiverem!
 
-**(documentação em desenvolvimento)**
+**(documentação em desenvolvimento)** 
