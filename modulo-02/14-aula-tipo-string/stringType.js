@@ -8,13 +8,12 @@
  * Transpilação do arquivo: <Windows> CTRL + SHIFT + B -> tsc: build/watch
  */
 // ==> Exemplo 01 - Single Quotes
-let nomeCompleto = 'Glaucia Lemos';
+let nomeCompleto = 'Eduardo de Araújo';
 console.log(nomeCompleto);
 // ==> Exemplo 02 - Double Quotes
-let funcaoEmpresa = "Cloud Advocate em JavaScript";
+let funcaoEmpresa = "Full Stack Developer";
 console.log(funcaoEmpresa);
 // ==> Exemplo 03 - Back Ticks
-let nomeEmpresa = 'Microsoft';
-let dadosFuncionario = `Seja bem-vinda ${nomeCompleto}! Você será ${funcaoEmpresa} 
-    na empresa ${nomeEmpresa}`;
+let nomeEmpresa = 'Kukac';
+let dadosFuncionario = `Seja bem-vindo ${nomeCompleto}, sua função na ${nomeEmpresa} é ${funcaoEmpresa}.`;
 console.log(dadosFuncionario);

@@ -9,19 +9,23 @@
 
 // ==> Exemplo 01 - Single Quotes
 
-let nomeCompleto: string = 'Glaucia Lemos';
+let nomeCompleto: string = 'Eduardo de Araújo';
 console.log(nomeCompleto);
+
 
 // ==> Exemplo 02 - Double Quotes
 
-let funcaoEmpresa: string = "Cloud Advocate em JavaScript";
+let funcaoEmpresa: string = "Full Stack Developer";
 console.log(funcaoEmpresa);
+
+
 
 // ==> Exemplo 03 - Back Ticks
 
-let nomeEmpresa: string = 'Microsoft';
+let nomeEmpresa: string = 'Kukac';
 
-let dadosFuncionario: string = `Seja bem-vinda ${nomeCompleto}! Você será ${funcaoEmpresa} 
-    na empresa ${nomeEmpresa}`; 
+let dadosFuncionario: string = `Seja bem-vindo ${nomeCompleto}, sua função na ${nomeEmpresa} é ${funcaoEmpresa}.`;
 
 console.log(dadosFuncionario);
+
+
