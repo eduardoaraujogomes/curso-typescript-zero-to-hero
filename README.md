@@ -4,7 +4,7 @@
   <img src="./media/tscurso.gif" alt="TypeScript Curso" width="100%">
 </p>
 
-Repositório responsável pelo Curso de TypeScript - Zero to Hero!
+Repositório responsável pelo Curso de TypeScript - Zero to Hero! 
 
 Todo o treinamento foi elaborado pela Comunidade para a Comunidade! Assim sendo, distribuindo o conhecimento de maneira totalmente gratuita à todas as Pessoas Desenvolvedoras.
 
