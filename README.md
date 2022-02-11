@@ -9,7 +9,7 @@ Repositório responsável pelo Curso de TypeScript - Zero to Hero!
 Todo o treinamento foi elaborado pela Comunidade para a Comunidade! Assim sendo, distribuindo o conhecimento de maneira totalmente gratuita à todas as Pessoas Desenvolvedoras.
 
 Toda a emenda do treinamento, foi baseada na **[Documentação oficial do TypeScript](https://www.typescriptlang.org/docs/handbook/intro.html)**! Pois, não existe melhor lugar para estudar e entender uma determinada stack ou linguagem com ajuda da documentação oficial!
-
+ 
 ## 📌 Pré-Requisitos
 
 Para a realização desse curso, se faz necessário já possuir conhecimento prévio em JavaScript e Node.Js
